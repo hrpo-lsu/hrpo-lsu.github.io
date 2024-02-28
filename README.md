@@ -22,7 +22,7 @@ Website for Highland Road Park Observatory time allocation and observatory user 
 
 ### Data analysis
 
-[HRPO Data Archive on Box]()
+[HRPO Data Archive on Box](https://lsu.box.com/s/mbjv00dfmm5sn51lp9aounsojv1435si)
 
 [Setting Up SciServer]()
 
