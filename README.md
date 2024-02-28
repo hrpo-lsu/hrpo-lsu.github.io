@@ -6,7 +6,7 @@ Website for Highland Road Park Observatory time allocation and observatory user 
 
 [Observing Request Form]() - a template form to provide other observers the information necessary for them to gather the data that you need.
 
-[Telescope & Camera properties](hrpo-lsu.github.io/telescope)
+[Telescope & Camera properties](hrpo-lsu.github.io/telescope.md)
 
 [Alta E47+ CCD Camera Data Sheet]()
 
