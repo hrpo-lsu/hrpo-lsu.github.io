@@ -6,6 +6,8 @@ Website for Highland Road Park Observatory time allocation and observatory user 
 
 [Observing Request Form]() - a template form to provide other observers the information necessary for them to gather the data that you need.
 
+[Telescope & Camera properties](hrpo-lsu.github.io/telescope)
+
 [Alta E47+ CCD Camera Data Sheet]()
 
 [Swarthmore Finder Chart Tool](https://astro.swarthmore.edu/transits/finding_charts.cgi) I recommend it covering 15'x15', with a 11'x11' box; you'll need to rotate them by 180 degrees for the 20" telescope)
