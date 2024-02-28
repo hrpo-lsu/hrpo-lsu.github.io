@@ -8,9 +8,9 @@ Website for Highland Road Park Observatory time allocation and observatory user 
 
 [Alta E47+ CCD Camera Data Sheet]()
 
-[Swarthmore Finder Chart Tool]() I recommend it covering 15'x15', with a 11'x11' box; you'll need to rotate them by 180 degrees for the 20" telescope)
+[Swarthmore Finder Chart Tool](https://astro.swarthmore.edu/transits/finding_charts.cgi) I recommend it covering 15'x15', with a 11'x11' box; you'll need to rotate them by 180 degrees for the 20" telescope)
 
-[LCO Exposure Time Calculator]()
+[LCO Exposure Time Calculator](https://exposure-time-calculator.lco.global/)
 
 ### Operating Procedures
 
@@ -29,7 +29,8 @@ Website for Highland Road Park Observatory time allocation and observatory user 
 [Setting up github HTTPS access on sciserver (Thanks Ali!)]()
 
 ### Useful Software
-[SAO DS9 FITS image viewer]() - [A Demonstration of DS9 features]()
+
+[SAO DS9 FITS image viewer](https://sites.google.com/cfa.harvard.edu/saoimageds9) - [A Demonstration of DS9 features]()
 
 [SciServer](https://sciserver.org/)
 
