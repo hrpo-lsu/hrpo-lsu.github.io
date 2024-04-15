@@ -1,6 +1,6 @@
 # 20" Telescope
 
-Diameter: 0.5 meters
+Diameter: 0.504 meters
 
 Focal ratio: f/8.1
 
@@ -8,7 +8,7 @@ Focal ratio: f/8.1
 
 Pixel size: 15 um = 0.61"
 
-Form factor 1024x1024
+Form factor: 1024x1024
 
 Field of View: 10.4' x 10.4'
 
@@ -25,6 +25,9 @@ Dark sky brightness @ airmass ~ 1.35: 17.5 mag/arcsec^2 (B), 16.6 mag/arcsec^2 (
 Readout noise: 18 e-/pix
 Dark current: 1 e-/s/pix (-20C), 3 e-/s/pix (-5C)
 Extinction coefficients: 0.5 mag/airmass (B), 0.2 mag/airmass (V), 0.2 mag/airmass (R) - very approximate
+
+Astrometry: ~0.1" precision achieved previously
+
 
 
 
