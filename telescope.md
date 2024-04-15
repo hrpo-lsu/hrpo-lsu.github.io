@@ -27,6 +27,7 @@ The following perfomance estimates are very approximate, but were calulcated fro
 |Dark current  | 1 e-/s/pix (-20C), 3 e-/s/pix (-5C) ||
 |Extinction coefficients (very approximate) | 0.5 mag/airmass | 0.2 mag/airmass | 0.2 mag/airmass 
 |Astrometry  | ~0.1" precision ||
+
 *In principle this should be ~24.
 
 
